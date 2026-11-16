@@ -1,0 +1,1 @@
+Laudit a ete realisé et jai constater plusiers anomalies de securite par rapport a la talle aux couches et la version de la distribution toute ses anomalies sont detaillés dans les fichier enregistrer dans le dossier 
